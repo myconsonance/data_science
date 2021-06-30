@@ -1,1 +1,2 @@
+# The InformARTive Museum Project
 My most recent data visualization project involved creating a virtual, data-driven art museum experience with my peers Pauline Yue, Hannah Choi, and Elizabeth Zhou. We wanted to produce an accessible and unique art experience for fellow art lovers and give them a chance to experience art in a data-centered way while staying at their homes due to the covid-19 pandemic. You can find the site [here](https://informartive-museum.github.io/project/about).
